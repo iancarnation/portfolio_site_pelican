@@ -3,8 +3,10 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Ian Rich'
-SITENAME = u'iancarnation.com'
+SITENAME = u'Ian Rich'
+SITESUBTITLE = 'Artist and Programmer | Games and Interactive Media'
 SITEURL = ''
+GITHUB_URL = 'https://github.com/iancarnation'
 
 PATH = 'content'
 
